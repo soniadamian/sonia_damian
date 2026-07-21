@@ -1,3 +1,3 @@
 # sonia_damian
 
-/// ciorba de burta
+# commitul meu e mai prost =))
