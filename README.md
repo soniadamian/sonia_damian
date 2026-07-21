@@ -1,3 +1,2 @@
-# sonia_damian
-
-# commitul meu e mai prost =))
+/// avem nevoie de culoare
+/// mor de cald
